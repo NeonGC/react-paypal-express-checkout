@@ -57,3 +57,12 @@ typings/
 # dotenv environment variables file
 .env
 
+# Idea configuration
+.idea
+
+# Dependency directory
+dist
+
+# Npm lock file
+package-lock.json
+
